@@ -1,0 +1,39 @@
+.fs-7 {
+  font-size: 0.9rem;
+}
+
+.fs-8 {
+  font-size: 0.8rem;
+}
+
+.fs-9 {
+  font-size: 0.7rem;
+}
+
+.start-25 {
+  left: 25%;
+}
+
+.start-75 {
+  left: 75%;
+}
+
+.end-25 {
+  right: 25%;
+}
+
+.end-75 {
+  right: 75%;
+}
+
+.white-space-nowrap {
+  white-space: nowrap;
+}
+
+.line-break-anywhere {
+  line-break: anywhere;
+}
+
+ul li {
+  list-style: none;
+}
